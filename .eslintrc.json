@@ -1,0 +1,31 @@
+{
+  // Extend the ESLint recommended rules, TypeScript recommended rules, and Prettier configuration
+  "extends": [
+    "eslint:recommended",
+    "plugin:@typescript-eslint/recommended",
+    "prettier",
+    "eslint-config-prettier"
+  ],
+
+  // Specify the plugins used in the configuration
+  "plugins": ["@typescript-eslint", "prettier"],
+
+  // Use the TypeScript parser for ESLint
+  "parser": "@typescript-eslint/parser",
+
+  // Configure parser options, specifying ECMAScript version, source type, and project file
+  "parserOptions": {
+    "ecmaVersion": 2020,
+    "sourceType": "module",
+    "project": "./tsconfig.json"
+  },
+
+  // Ignore specific files or patterns from linting
+  "ignorePatterns": ["reports/*", "utils/*"],
+
+  // Customize rules as needed
+  "rules": {
+    "@typescript-eslint/no-namespace": "off" // Turn off the specified TypeScript rule
+    // Add more rules or customize existing ones as needed
+  }
+}
