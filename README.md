@@ -116,7 +116,7 @@ by this:
 
 And show the magic happening!
 
-![Test report example](public\test-report.png)
+![Test report example](public/test-report.png)
 
 On the top left, you can switch for white or black theme as your convenience.
 
@@ -133,7 +133,7 @@ You can found the test report into `reports/jmeter/html`.
 Here is an example : 
 
 
-![Test report jmeter example](public\test-report-jmeter.png)
+![Test report jmeter example](public/test-report-jmeter.png)
 
 ## Linting with ESLint
 Linting is configured using ESLint. To run linting:
