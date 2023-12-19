@@ -21,10 +21,10 @@ For more details, check the official documentation : [Here](https://github.com/b
 **cypress-recurse** is a Cypress plugin that allows to recursively run Cypress tests from multiple directories, providing a convenient way to organize and execute tests in a modular manner.  
 For more details, check the official documentation : [Here](https://github.com/bahmutov/cypress-recurse)
 
-**multiple-cucumber-html-reporter** is a comprehensive reporting tool for Cucumber test results. It allows to generate detailed and visually appealing HTML reports for Cucumber test runs, making it easier to analyze and share the results with your team.
+**multiple-cucumber-html-reporter** is a comprehensive reporting tool for Cucumber test results. It allows to generate detailed and visually appealing HTML reports for Cucumber test runs, making it easier to analyze and share the results with your team.  
 For more details, check the official documentation : [Here](https://github.com/WasiqB/multiple-cucumber-html-reporter)
 
-**JMeter** is an open-source Java application designed to load test and measure performance. It can be used to simulate a heavy load on a server, network, or object to test its strength or to analyze overall performance under different load types.
+**JMeter** is an open-source Java application designed to load test and measure performance. It can be used to simulate a heavy load on a server, network, or object to test its strength or to analyze overall performance under different load types.  
 For more details, check the official documentation : [Here](https://jmeter.apache.org/usermanual/get-started.html#install)
 
 
