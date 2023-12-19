@@ -59,7 +59,7 @@ For **MacOS/Linux users**, you can follow this documention for the setup : [here
 
     npm run cy:tags -- --tags "@smoke"
 
-### Run Jmeter Headless Tags
+### Run Jmeter Headless Tests
 
     npm run jmeter:test
 
